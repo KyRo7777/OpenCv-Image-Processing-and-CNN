@@ -1,0 +1,14 @@
+{
+  "type": "chat_transfer_context",
+  "project": "OpenCV Complete Colab Course + Simpsons CNN Capstone",
+  "created_utc": "2026-09-15T13:27:09.322232+00:00",
+  "source": "accessible conversation context and current task state",
+  "primary_notebook": "/mnt/data/OpenCV_Complete_Colab_Course (1)(1).ipynb",
+  "simpsons_dataset": "/mnt/data/archive (3).zip",
+  "instruction_priority": [
+    "Preserve the user's edited notebook",
+    "Preserve first-person project wording",
+    "Integrate Simpsons dataset into the changed notebook",
+    "Do not fabricate results"
+  ]
+}
